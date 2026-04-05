@@ -3,4 +3,5 @@ yt-dlp
 openai-whisper
 google-generativeai
 gTTS
-moviepy1.0.3
+moviepy
+
